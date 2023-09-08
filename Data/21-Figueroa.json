@@ -1,0 +1,83 @@
+{
+    "Overall": {
+        "Total Points": 13,
+        "1-Pointers Made": 3,
+        "2-Pointers Made": 2,
+        "3-Pointers Made": 2,
+        "Field Goals Made": 7,
+
+        "1-Pointers Attempted": 5,
+        "2-Pointers Attempted": 6,
+        "3-Pointers Attempted": 3,
+        "Field Goals Attempted": 14,
+
+        "1-Point Percentage": 60,
+        "2-Point Percentage": 33,
+        "3-Point Percentage": 66,
+        "Field Goal Percentage": 50,
+        "Effective Field Goal Percentage": 35,
+
+        "Rebounds": 7,
+        "Offensive Rebounds": 4,
+        "Defensive Rebounds": 3,
+
+        "Assists": 3,
+        "Turnovers": 10,
+        "Steals": 1,
+        "Blocks": 1,
+        "Shots Blocked": 0,
+        "Charges Taken": 1,
+
+        "Total Fouls": 6,
+        "Foul - Travel": 2,
+        "Foul - Carry": 0,
+        "Foul - Double Dribble": 0,
+        "Foul - Charge": 1,
+        "Foul - Holding": 0,
+        "Foul - Illegal Screen": 1,
+        "Foul - Blocking": 1,
+        "Foul - Technical": 0
+    },
+
+    "Games": {
+        "06-25-2023_northeast": {
+            "Total Points": 13,
+            "1-Pointers Made": 3,
+            "2-Pointers Made": 2,
+            "3-Pointers Made": 2,
+            "Field Goals Made": 7,
+
+            "1-Pointers Attempted": 5,
+            "2-Pointers Attempted": 6,
+            "3-Pointers Attempted": 3,
+            "Field Goals Attempted": 14,
+
+            "1-Point Percentage": 60,
+            "2-Point Percentage": 33,
+            "3-Point Percentage": 66,
+            "Field Goal Percentage": 50,
+            "Effective Field Goal Percentage": 35,
+
+            "Rebounds": 7,
+            "Offensive Rebounds": 4,
+            "Defensive Rebounds": 3,
+
+            "Assists": 3,
+            "Turnovers": 10,
+            "Steals": 1,
+            "Blocks": 1,
+            "Shots Blocked": 0,
+            "Charges Taken": 1,
+
+            "Total Fouls": 6,
+            "Foul - Travel": 2,
+            "Foul - Carry": 0,
+            "Foul - Double Dribble": 0,
+            "Foul - Charge": 1,
+            "Foul - Holding": 0,
+            "Foul - Illegal Screen": 1,
+            "Foul - Blocking": 1,
+            "Foul - Technical": 0
+        }
+    }
+}
